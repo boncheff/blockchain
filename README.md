@@ -3,4 +3,6 @@ This is a simple Blockchain project written in Go that shows how easy it is to s
 
 It uses TCP to broadcast updates to all connected users and runs entirely in the terminal
 
-Being a toy project, it is likely to change without any notice!
+The (fictional) entity being stored in the Blockchain is _NIN_, short for _National Identification Number_.
+
+It is also worth mentioning that this being a toy project, it is likely to change without any notice!
