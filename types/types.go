@@ -2,9 +2,11 @@ package types
 
 // Block represents the Blockchain block
 type Block struct {
-	Index     int
-	Timestamp string
-	NIN       int
-	Hash      string
-	PrevHash  string
+	Difficulty int
+	Hash       string
+	Index      int
+	Iterations string
+	NIN        int
+	PrevHash   string
+	Timestamp  string
 }
